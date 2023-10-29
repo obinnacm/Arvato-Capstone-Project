@@ -1,0 +1,87 @@
+﻿Attribute,type,missing_or_unknown
+AGER_TYP,categorical,[-1]
+ALTERSKATEGORIE_GROB,ordinal,"[-1, 0,9]"
+ALTER_HH,interval,[0]
+ANREDE_KZ,categorical,"[-1, 0]"
+ANZ_HAUSHALTE_AKTIV,numeric,[]
+ANZ_HH_TITEL,numeric,[]
+ANZ_PERSONEN,numeric,[]
+ANZ_TITEL,numeric,[]
+ARBEIT,ordinal,[]
+BALLRAUM,ordinal,[-1]
+CAMEO_DEUG_2015,categorical,"[-1,X]"
+CAMEO_DEU_2015,categorical,[XX]
+CAMEO_INTL_2015,mixed,"[-1,XX]"
+CJT_GESAMTTYP,categorical,[0]
+EWDICHTE,ordinal,[-1]
+FINANZTYP,categorical,[-1]
+FINANZ_ANLEGER,ordinal,[-1]
+FINANZ_HAUSBAUER,ordinal,[-1]
+FINANZ_MINIMALIST,ordinal,[-1]
+FINANZ_SPARER,ordinal,[-1]
+FINANZ_UNAUFFAELLIGER,ordinal,[-1]
+FINANZ_VORSORGER,ordinal,[-1]
+GEBAEUDETYP,categorical,"[-1, 0]"
+GEBAEUDETYP_RASTER,ordinal,[0]
+GEBURTSJAHR,numeric,[]
+GFK_URLAUBERTYP,categorical,[]
+GREEN_AVANTGARDE,categorical,[]
+HEALTH_TYP,ordinal,[-1]
+HH_EINKOMMEN_SCORE,ordinal,"[-1, 0]"
+INNENSTADT,ordinal,[-1]
+KBA05_ANTG1,ordinal,[-1]
+KBA05_ANTG2,ordinal,[-1]
+KBA05_ANTG3,ordinal,[-1]
+KBA05_ANTG4,ordinal,[-1]
+KBA05_BAUMAX,mixed,"[-1, 0]"
+KBA05_GBZ,ordinal,"[-1, 0]"
+KBA13_ANZAHL_PKW,numeric,[]
+KBA13_AUTOQUOTE,ordinal,[-1]
+KBA13_TOYOTA,ordinal,[-1]
+KK_KUNDENTYP,categorical,[]
+KKK,ordinal,"[-1, 0]"
+KONSUMNAEHE,ordinal,[]
+LP_FAMILIE_FEIN,categorical,[]
+LP_FAMILIE_GROB,categorical,[]
+LP_LEBENSPHASE_FEIN,mixed,[]
+LP_LEBENSPHASE_GROB,mixed,[]
+LP_STATUS_FEIN,categorical,[]
+LP_STATUS_GROB,categorical,[]
+MIN_GEBAEUDEJAHR,numeric,[]
+MOBI_REGIO,ordinal,[]
+NATIONALITAET_KZ,categorical,"[-1, 0]"
+ONLINE_AFFINITAET,ordinal,[]
+ORTSGR_KLS9,ordinal,[-1]
+OST_WEST_KZ,categorical,[-1]
+PLZ8_ANTG1,ordinal,[-1]
+PLZ8_ANTG2,ordinal,[-1]
+PLZ8_ANTG3,ordinal,[-1]
+PLZ8_ANTG4,ordinal,[-1]
+PLZ8_BAUMAX,mixed,[]
+PLZ8_GBZ,ordinal,[-1]
+PLZ8_HHZ,ordinal,[-1]
+PRAEGENDE_JUGENDJAHRE,mixed,"[-1, 0]"
+REGIOTYP,ordinal,"[-1, 0]"
+RELAT_AB,ordinal,[]
+RETOURTYP_BK_S,ordinal,[0]
+SEMIO_DOM,ordinal,"[-1, 9]"
+SEMIO_ERL,ordinal,"[-1, 9]"
+SEMIO_FAM,ordinal,"[-1, 9]"
+SEMIO_KAEM,ordinal,"[-1, 9]"
+SEMIO_KRIT,ordinal,"[-1, 9]"
+SEMIO_KULT,ordinal,"[-1, 9]"
+SEMIO_LUST,ordinal,"[-1, 9]"
+SEMIO_MAT,ordinal,"[-1, 9]"
+SEMIO_PFLICHT,ordinal,"[-1, 9]"
+SEMIO_RAT,ordinal,"[-1, 9]"
+SEMIO_REL,ordinal,"[-1, 9]"
+SEMIO_SOZ,ordinal,"[-1, 9]"
+SEMIO_TRADV,ordinal,"[-1, 9]"
+SEMIO_VERT,ordinal,"[-1, 9]"
+SHOPPER_TYP,categorical,[-1]
+TITEL_KZ,categorical,"[-1, 0]"
+VERS_TYP,categorical,[-1]
+WOHNDAUER_2008,ordinal,"[-1, 0]"
+WOHNLAGE,mixed,[-1]
+W_KEIT_KIND_HH,ordinal,"[-1, 0]"
+ZABEOTYP,categorical,"[-1, 9]"
