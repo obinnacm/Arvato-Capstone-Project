@@ -28,7 +28,7 @@ My intention in this project was to understand Arvato Financial Services general
 
 ## File Descriptions <a name="files"></a>
 
-There are seven data files associated with this project:
+There are seven data files associated with this project and required to run it:
 
 - `Udacity_AZDIAS_052018.csv`: Demographics data for the general population of Germany; 891 211 persons (rows) x 366 features (columns).
 - `Udacity_CUSTOMERS_052018.csv`: Demographics data for customers of a mail-order company; 191 652 persons (rows) x 369 features (columns).
